@@ -1,0 +1,17 @@
+# Build output
+build/
+bin/
+*.o
+*.d
+*.a
+
+# Coverage
+*.gcno
+*.gcda
+*.gcov
+coverage/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
